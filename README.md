@@ -4,14 +4,14 @@ A small project template for [Middleman], the fantastic static site building
 tool. Without any front-facing extension, even the blog one. Use for starting
 the new site. Add what's necessary later.
 
-And yes it is ripped off fine [middleman-neato] template. Thanks @shkm!
+And yes it is blatantly ripped off fine [middleman-neato] template. Thanks @shkm!
 
 The name is based on czech saying ricpic (read ritz-pitz) which means at once.
 
 
 ## Features
 
-Neato sets you up with the following, straight out of the box:
+Ricpic sets you up with the following, straight out of the box:
 
 - [Slim](http://slim-lang.com/) templating
 - [Sass](http://sass-lang.com/) support with [Bourbon](http://bourbon.io/), [Neat](http://neat.bourbon.io/) & [Bitters](http://bitters.bourbon.io)
@@ -31,7 +31,7 @@ Install [Middleman]:
     gem install middleman
 
 
-Clone Neato:
+Clone Ricpic:
 
     git clone git@github.com:pepe/middleman-ricpic.git my-project
 
@@ -48,7 +48,7 @@ If you find yourself using ricpic often, you can install it as a middleman templ
 
     git clone git@github.com:shkm/middleman-ricpic.git ~/.middleman/ricpic
 
-Now you can simply init new projects with the Neato template:
+Now you can simply init new projects with the Ricpic template:
 
     middleman init -T=ricpic my-project
 
