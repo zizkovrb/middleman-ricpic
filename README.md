@@ -14,9 +14,11 @@ The name is based on czech saying ricpic (read ritz-pitz) which means at once.
 Ricpic sets you up with the following, straight out of the box:
 
 - [Slim](http://slim-lang.com/) templating
-- [Sass](http://sass-lang.com/) support with [Bourbon](http://bourbon.io/), [Neat](http://neat.bourbon.io/) & [Bitters](http://bitters.bourbon.io)
+- [Sass](http://sass-lang.com/) support with [Bourbon](http://bourbon.io/),
+  [Neat](http://neat.bourbon.io/) & [Bitters](http://bitters.bourbon.io)
 - [Coffee script](http://coffeescript.org) Coffee script instead of plain javascript
-- A basic page layout & 404 page based on [HTML5 Boilerplate](http://html5boilerplate.com/) (in Slim)
+- A basic page layout & 404 page based on
+  [HTML5 Boilerplate](http://html5boilerplate.com/) (in Slim)
 - Simple Google Analytics support
 - [Livereload](https://github.com/middleman/middleman-livereload)
 - CSS & Javascript minification and gzipping on build
@@ -46,7 +48,7 @@ Install gems and get to work!
 
 If you find yourself using ricpic often, you can install it as a middleman template:
 
-    git clone git@github.com:shkm/middleman-ricpic.git ~/.middleman/ricpic
+    git clone git@github.com:zizkovrb/middleman-ricpic.git ~/.middleman/ricpic
 
 Now you can simply init new projects with the Ricpic template:
 
