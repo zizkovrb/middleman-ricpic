@@ -4,11 +4,6 @@ source 'https://rubygems.org'
 gem "middleman"
 
 # Building blocks
-gem 'slim'
-gem "bourbon"
-gem "neat"
-gem "bitters"
-gem "coffee-script"
 
 # Internal extensions
 gem "middleman-gh-pages" # GitHub Pages deployment
